@@ -7,18 +7,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Trello</h3>
+  <h3 align="center">Music Player</h3>
 
   <p align="center">
-    A Trello clone
+    An in app music player
     <br />
     <br />
     <br />
-    <a href="https://kendrajmoore.github.io/trello/">View Demo</a>
+    <a href="https://kendrajmoore.github.io/music">View Demo</a>
     ·
-    <a href="https://github.com/kendrajmoore/trello/issues">Report Bug</a>
+    <a href="https://github.com/kendrajmoore/music/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kendrajmoore/trello/issues">Request Feature</a>
+    <a href="https://github.com/kendrajmoore/music/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,7 +36,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/kendrajmoore/trello/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kendrajmoore/music/issues) for a list of proposed features (and known issues).
 
 
 
@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/kendrajmoore/trello](https://github.com/kendrajmoore/trello)
+Project Link: [https://github.com/kendrajmoore/music](https://github.com/kendrajmoore/music)
 
 
 
